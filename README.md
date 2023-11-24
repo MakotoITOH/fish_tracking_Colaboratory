@@ -6,9 +6,9 @@ As such, it can be used as a baseline program for the FishTrackingChallenge2024 
 
 # Handling instructions
 
-## challenge_FTC2024.jpynb
+## challenge_FTC2024.ipynb
 ### for those who want to use it for FishTrackingChallenge2024  
-FishTrackingChallenge2024 participants can use this programme to track two videos(development.mp4 and test.mp4) as a baseline.    
+FishTrackingChallenge2024 participants can use this program to track two videos(development.mp4 and test.mp4) as a baseline.    
 By default, development.mp4 can be analysed.  
 If you want to analyse test.mp4, replace the line for specifying the file with the instructions in the comments before running the program.
 
@@ -16,7 +16,7 @@ If you want to analyse test.mp4, replace the line for specifying the file with t
 ### for those who want to use it for your own movie
 
 It contains fine-tune models of fish, so if you have your own fish videos for your use, you can use this.
-You can upload your own videos to a specific section of the google colaboratory and track it.  
+You can upload your own videos to a specific section of the google colaboratory and track the video.  
 Please bear in mind that it may take some time to upload.  
 You have the option of utilizing "gdown" that can greatly decrease the uploading time.  
 The example code has been included in the notes so you can customize it to match your video.
