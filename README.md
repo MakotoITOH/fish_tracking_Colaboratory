@@ -1,6 +1,6 @@
 # ReadMe
 This is a code for tracking fish that is based on the Ultralytics code found at https://github.com/ultralytics/ultralytics.  
-I have made adjustments to the code found on the Github page located at https://github.com/MakotoITOH/fish_tracking_Colaboratory so that it can work with Google Colaboratory.  
+I have made adjustments to the code found on the Github page located at https://github.com/MakotoITOH/fish_tracking_ultralytics so that it can work with Google Colaboratory.  
 The code has been trained and fine-tuned to function with the experimental video being used for the FishTrackingChallenge2024.  
 As such, it can be used as a baseline program for the FishTrackingChallenge2024 (https://ftc-2024.github.io/).  
 
